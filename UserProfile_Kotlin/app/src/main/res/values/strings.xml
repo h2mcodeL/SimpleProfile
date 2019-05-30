@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Image of dog sourced from google image search -->
+
+    <string name="app_name">UserProfile_Kotlin</string>
+    <string name="title">User Profile</string>
+    <string name="name">Name: </string>
+    <string name="age">Age: </string>
+    <string name="location">Location: </string>
+</resources>
